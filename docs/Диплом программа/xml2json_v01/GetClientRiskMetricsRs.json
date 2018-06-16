@@ -1,0 +1,516 @@
+{
+  "success": true,
+  "body": {
+    "lendingCapacity": {
+      "calculated": true,
+      "calculationDate": "11.01.2018",
+      "expired": true,
+      "expirationDate": "12.01.2018",
+      "capacity": [
+        {
+          "id": "available",
+          "header": "Доступная часть",
+          "amount": 49312.94
+        },
+        {
+          "id": "reserved",
+          "header": "Зарезервированная часть",
+          "amount": 14357.78
+        },
+        {
+          "id": "used",
+          "header": "Использованная часть",
+          "amount": 0
+        }
+      ]
+    },
+    "dashboard": {
+      "messages": [],
+      "availableProducts": [
+        {
+          "id": "10",
+          "header": "Потребительский кредит",
+          "conditions": [],
+          "subproductMatrix": [
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 3,
+              "rate": 14.2,
+              "min": 30000,
+              "max": 144000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 4,
+              "rate": 14.2,
+              "min": 30000,
+              "max": 191000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 5,
+              "rate": 14.2,
+              "min": 30000,
+              "max": 238000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 6,
+              "rate": 14.2,
+              "min": 30000,
+              "max": 284000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 7,
+              "rate": 14.2,
+              "min": 30000,
+              "max": 329000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 8,
+              "rate": 14.2,
+              "min": 30000,
+              "max": 374000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 9,
+              "rate": 14.5,
+              "min": 30000,
+              "max": 418000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 10,
+              "rate": 14.85,
+              "min": 30000,
+              "max": 461000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 11,
+              "rate": 15.15,
+              "min": 30000,
+              "max": 503000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 12,
+              "rate": 15.4,
+              "min": 30000,
+              "max": 545000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 13,
+              "rate": 15.55,
+              "min": 30000,
+              "max": 586000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 14,
+              "rate": 15.75,
+              "min": 30000,
+              "max": 626000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 15,
+              "rate": 15.85,
+              "min": 30000,
+              "max": 667000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 16,
+              "rate": 16,
+              "min": 30000,
+              "max": 706000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 17,
+              "rate": 16.1,
+              "min": 30000,
+              "max": 745000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 18,
+              "rate": 16.15,
+              "min": 30000,
+              "max": 783000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 19,
+              "rate": 16.25,
+              "min": 30000,
+              "max": 821000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 20,
+              "rate": 16.3,
+              "min": 30000,
+              "max": 858000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 21,
+              "rate": 16.4,
+              "min": 30000,
+              "max": 894000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 22,
+              "rate": 16.45,
+              "min": 30000,
+              "max": 931000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 23,
+              "rate": 16.5,
+              "min": 30000,
+              "max": 966000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 24,
+              "rate": 16.55,
+              "min": 30000,
+              "max": 1001000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 25,
+              "rate": 17.6,
+              "min": 30000,
+              "max": 1025000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 26,
+              "rate": 17.6,
+              "min": 30000,
+              "max": 1059000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 27,
+              "rate": 17.65,
+              "min": 30000,
+              "max": 1092000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 28,
+              "rate": 17.65,
+              "min": 30000,
+              "max": 1125000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 29,
+              "rate": 17.7,
+              "min": 30000,
+              "max": 1156000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 30,
+              "rate": 17.7,
+              "min": 30000,
+              "max": 1188000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 31,
+              "rate": 17.75,
+              "min": 30000,
+              "max": 1219000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 32,
+              "rate": 17.75,
+              "min": 30000,
+              "max": 1249000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 33,
+              "rate": 17.75,
+              "min": 30000,
+              "max": 1280000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 34,
+              "rate": 17.75,
+              "min": 30000,
+              "max": 1310000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 35,
+              "rate": 17.8,
+              "min": 30000,
+              "max": 1338000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 36,
+              "rate": 17.8,
+              "min": 30000,
+              "max": 1367000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 37,
+              "rate": 17.8,
+              "min": 30000,
+              "max": 1396000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 38,
+              "rate": 17.8,
+              "min": 30000,
+              "max": 1424000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 39,
+              "rate": 17.85,
+              "min": 30000,
+              "max": 1451000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 40,
+              "rate": 17.85,
+              "min": 30000,
+              "max": 1478000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 41,
+              "rate": 17.85,
+              "min": 30000,
+              "max": 1505000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 42,
+              "rate": 17.85,
+              "min": 30000,
+              "max": 1532000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 43,
+              "rate": 17.9,
+              "min": 30000,
+              "max": 1556000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 44,
+              "rate": 17.9,
+              "min": 30000,
+              "max": 1582000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 45,
+              "rate": 17.9,
+              "min": 30000,
+              "max": 1607000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 46,
+              "rate": 17.95,
+              "min": 30000,
+              "max": 1631000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 47,
+              "rate": 17.95,
+              "min": 30000,
+              "max": 1656000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 48,
+              "rate": 17.95,
+              "min": 30000,
+              "max": 1680000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 49,
+              "rate": 17.95,
+              "min": 30000,
+              "max": 1704000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 50,
+              "rate": 17.95,
+              "min": 30000,
+              "max": 1727000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 51,
+              "rate": 18,
+              "min": 30000,
+              "max": 1749000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 52,
+              "rate": 18,
+              "min": 30000,
+              "max": 1771000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 53,
+              "rate": 18,
+              "min": 30000,
+              "max": 1794000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 54,
+              "rate": 18,
+              "min": 30000,
+              "max": 1816000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 55,
+              "rate": 18,
+              "min": 30000,
+              "max": 1837000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 56,
+              "rate": 18,
+              "min": 30000,
+              "max": 1859000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 57,
+              "rate": 18,
+              "min": 30000,
+              "max": 1880000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 58,
+              "rate": 18,
+              "min": 30000,
+              "max": 1901000
+            },
+            {
+              "subProductId": "1471",
+              "currencyCode": "rub",
+              "period": 60,
+              "rate": 18,
+              "min": 30000,
+              "max": 1941000
+            }
+          ]
+        }
+      ],
+      "unavailableProducts": [],
+      "loans": []
+    },
+    "configs": [
+      {
+        "id": "LENDING_CAPACITY_CONFIG",
+        "options": [
+          {
+            "id": "LENDING_CAPACITY_LIFETIME",
+            "value": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "messages": [
+    {
+      "title": "LC_MUST_BE_UPDATED|Срок действия расчета вашего кредитного потенциала истек",
+      "text": "Для обновления информации о том, какую сумму кредита и ежемесячный платеж вам одобрит банк, отправьте новый запрос. Информация предоставляется бесплатно.",
+      "type": "info"
+    }
+  ]
+}

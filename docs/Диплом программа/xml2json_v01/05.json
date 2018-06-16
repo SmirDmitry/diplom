@@ -1,0 +1,57 @@
+{
+  "success":true,
+  "body":{
+    "calculationDate":"2018-04-19T14:04:51.000+03:00",
+    "daysLeft":18,
+    "totalLimit":"555935.2",
+    "maxProductsPayment":"15990",
+    "paymentForMaxLimit":"15990",
+    "currencyCode":"rub",
+    "status":["LC_ACCEPTED"],
+    "capacity":[{
+      "id":"available",
+      "header":"Доступная часть",
+      "payment":15990
+      },{
+      "id":"reserved",
+      "header":"Зарезервированная часть",
+      "payment":0
+      },{
+      "id":"used",
+      "header":"Использованная часть",
+      "payment":0
+      }],
+    "products":[{
+      "id":"1-10",
+      "type":"CONSUMER_LOAN",
+      "header":"Потребительские кредиты",
+      "maxLimit":"555935.2",
+      "minLimit":"30000",
+      "maxPayment":"15990",
+      "status":"accepted",
+      "periodLimit":"60",
+      "rejections":[]
+     }],
+    "liabilities":[{
+      "type":"CONSUMER_LOAN",
+      "header":"Кредитная карта.",
+      "rate":"",
+      "currencyCode":"RUB",
+      "paymentRemainingAmount":"0",
+      "payment":"0","amount":"300000",
+      "startDate":"2013-10-31T04:00:00.000+04:00",
+      "endDate":"2015-10-31T03:00:00.000+03:00",
+      "isInternal":false
+      }],
+    "configs":[{
+      "id":"LOADING_SCREEN_TIMEOUT",
+      "value":"180"
+      },{
+      "id":"ANALYTICS_SLIDER_REPEAT_TIMEOUT",
+      "value":"10000"
+      },{
+      "id":"CREDIT_CARD_DISABLE",
+      "value":"false"
+      }]
+    }
+}

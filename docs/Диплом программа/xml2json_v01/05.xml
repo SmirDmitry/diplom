@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GetClientRiskMetricsRs>
+    <RqUID>f7f73faf95304e7cbe7928b5cf8a2223</RqUID>
+    <RqTm>2018-05-01T20:34:46.037+03:00</RqTm>
+    <SPName>urn:sbrfsystems:99-pprb</SPName>
+    <SystemId>urn:sbrfsystems:99-ufs</SystemId>
+    <Status>
+        <StatusCode>0</StatusCode>
+        <StatusDesc>OK</StatusDesc>
+    </Status>
+    <GroupId>D156437</GroupId>
+    <ScoringType>4</ScoringType>
+    <ParticipantResults>
+        <ParticipantResult>
+            <ParticipantIndex>1</ParticipantIndex>
+            <Status>OK</Status>
+            <DateOfCalc>2018-04-19T11:04:51Z</DateOfCalc>
+            <EpkId>1101138647113403197</EpkId>
+            <CreditPotentialData>
+                <GenericClientCategory>E</GenericClientCategory>
+                <ObjectiveID>1</ObjectiveID>
+                <TotalDecision>Accept</TotalDecision>
+                <TotalReasonCodeTable>P001</TotalReasonCodeTable>
+                <AvailablePart>
+                    <AvailableTotalSum>15990</AvailableTotalSum>
+                    <ProductList>
+                        <ProductType>1</ProductType>
+                        <SubProductList>
+                            <ProductInfo>
+<ProductType>1</ProductType>
+<ProductCode>10</ProductCode>
+<SubproductCode>1609</SubproductCode>
+                            </ProductInfo>
+                            <Decision>Accept</Decision>
+                            <ReasonCodeTable>P001</ReasonCodeTable>
+                            <WhiteFlag>0</WhiteFlag>
+                            <RangeList>
+<RangeCode>3000000</RangeCode>
+<RangeName>NO_ACTION_3.000.000</RangeName>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>3</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>37528</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>4</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>49760</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>5</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>61856</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>6</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>73817.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>7</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>85646.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>8</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>97343.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>9</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>108910.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>10</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>120348</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>11</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>131659.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>12</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>142844</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>13</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>153904.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>14</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>164842.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>15</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>175657.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>16</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>186353.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>17</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>196929.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>18</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>207388.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>19</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>217731.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>20</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>227958.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>21</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>238072.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>22</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>248073.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>23</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>257963.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>24</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>267743.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>25</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>277414.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>26</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>286977.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>27</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>296435.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>28</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>305787.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>29</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>315035.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>30</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>324180</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>31</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>333223.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>32</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>342165.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>33</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>351008.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>34</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>359753.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>35</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>368400.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>36</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>376952</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>37</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>385408.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>38</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>393770.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>39</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>402040</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>40</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>410216.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>41</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>418302.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>42</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>426299.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>43</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>434206.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>44</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>442025.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>45</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>449757.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>46</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>457404</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>47</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>464964.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>48</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>472441.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>49</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>479836</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>50</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>487147.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>51</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>494377.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>52</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>501527.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>53</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>508597.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>54</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>515589.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>55</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>522503.2</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>56</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>529340</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>57</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>536100.8</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>58</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>542786.4</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>59</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>549397.6</LoanLimit>
+</TermList>
+<TermList>
+    <LoanSum>15990</LoanSum>
+    <LoanTerm>60</LoanTerm>
+    <LoanRate>13.5</LoanRate>
+    <LoanLimit>555935.2</LoanLimit>
+</TermList>
+                            </RangeList>
+                        </SubProductList>
+                    </ProductList>
+                </AvailablePart>
+                <ReservedPart>
+                    <ReservedTotalSum>0</ReservedTotalSum>
+                </ReservedPart>
+                <UsedPart>
+                    <UsedTotalSum>0</UsedTotalSum>
+                    <LiabilityList>
+                        <SourceCB>NBCH</SourceCB>
+                        <LiabilityType>8</LiabilityType>
+                        <DateStart>2013-10-31Z</DateStart>
+                        <DateRedemptionScheduled>2015-10-31Z</DateRedemptionScheduled>
+                        <Currency>RUB</Currency>
+                        <AmountInitialRur>300000</AmountInitialRur>
+                        <ResidualDebtRur>0</ResidualDebtRur>
+                        <MonthPayRur>0</MonthPayRur>
+                    </LiabilityList>
+                    <LiabilityList>
+                        <SourceCB>NBCH</SourceCB>
+                        <LiabilityType>8</LiabilityType>
+                        <DateStart>2005-09-30Z</DateStart>
+                        <DateRedemptionScheduled>2010-09-30Z</DateRedemptionScheduled>
+                        <Currency>RUB</Currency>
+                        <AmountInitialRur>300000</AmountInitialRur>
+                        <ResidualDebtRur>0</ResidualDebtRur>
+                        <MonthPayRur>0</MonthPayRur>
+                    </LiabilityList>
+                </UsedPart>
+                <EntityId>dc734fe9effe41c5b34ff7a08d41eb1e</EntityId>
+                <ActualCalcFlag>true</ActualCalcFlag>
+                <ChannelSales>9</ChannelSales>
+                <BusinessSourceSystem>UFS</BusinessSourceSystem>
+            </CreditPotentialData>
+        </ParticipantResult>
+    </ParticipantResults>
+</GetClientRiskMetricsRs>
